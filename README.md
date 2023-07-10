@@ -1,0 +1,2 @@
+# premium_tic_tac_toe
+ Tic-Tac-Toe is a two-player game played on a grid of 3x3 squares. The objective is to be the first player to form a line of three of their own marks, either horizontally, vertically, or diagonally.A player wins the game if they successfully place three of their marks in a row, column, or diagonal. If all squares on the grid are filled and no player has won, the game is a draw.
